@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Zensar123\Documents\java 8\WeatherClient"/>
+			<item value="C:\Users\Zensar123\Documents\java 8\WeatherService"/>
+			<item value="C:\Users\Zensar123\Documents\java 8\GatwayService"/>
+			<item value="C:\Users\Zensar123\Documents\java 8\HelloService"/>
+			<item value="C:\Users\Zensar123\Documents\java 8\GoodBayService"/>
+			<item value="C:\Users\Zensar123\Documents\java 8\ConfigClient"/>
+			<item value="C:\Users\Zensar123\Documents\java 8\ConfigServer"/>
+			<item value="C:\Users\Zensar123\Documents\java 8\Service"/>
+			<item value="C:\Users\Zensar123\Documents\java 8\DiscoveryServer"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

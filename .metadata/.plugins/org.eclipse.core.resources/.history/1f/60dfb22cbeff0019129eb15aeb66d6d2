@@ -1,0 +1,5 @@
+eureka.client.regester-with-eureka = false
+clirnt.fetch-registry = false
+spring.application.properties =discovery-server
+server.port=8761
+eureka.dashboard.enable = false

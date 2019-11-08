@@ -1,0 +1,13 @@
+package com.zensar.GoodBayService;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class GoodBayServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(GoodBayServiceApplication.class, args);
+	}
+
+}

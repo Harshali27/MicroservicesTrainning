@@ -1,0 +1,13 @@
+package com.zensar.WeatherClient;
+
+import org.springframework.web.client.RestTemplate;
+
+public class GetWeatherInformation {
+
+	private RestTemplate resttemplate;
+	
+	public String getWeather()
+	{
+		return resttemplate.getForEntity("",String.class).getBody();
+	}
+}

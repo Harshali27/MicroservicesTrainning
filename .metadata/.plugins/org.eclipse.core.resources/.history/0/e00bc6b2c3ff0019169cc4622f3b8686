@@ -1,0 +1,5 @@
+eureka.client.regester-with-eureka = false
+clirnt.fetch-registry = false
+spring.application.name =discovery-server
+
+eureka.dashboard.enable = false
